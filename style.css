@@ -1,0 +1,9 @@
+button {
+  border: none;
+  outline-style: none;
+  border-radius: 20px;
+  background-color: peachpuff;
+  width: 60px;
+  height: 30px;
+  cursor: pointer;
+}
