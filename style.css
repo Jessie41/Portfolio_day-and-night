@@ -15,3 +15,7 @@ button {
 a:hover {
   background-color: lightsteelblue;
 }
+
+a:visited {
+  color: none;
+}
